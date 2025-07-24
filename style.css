@@ -1,0 +1,4 @@
+/* Legacy style.css - now imports separate files for better organization */
+
+@import url('keyboard/keyboard.css');
+@import url('demo.css');
